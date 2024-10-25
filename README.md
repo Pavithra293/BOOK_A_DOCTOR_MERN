@@ -76,7 +76,7 @@ To set up BloodLife locally, follow these steps:
 
 - Clone the repository:
 
-      git clone https://github.com/OviSarkar62/AppointDoc.git
+      git clone  https://github.com/Pavithra293/BOOK_A_DOCTOR_MERN.git
       
 - Install the required dependencies for backend:
 
